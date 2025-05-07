@@ -30,7 +30,7 @@ The system uses the following main tables:
 - Users
 - Patients
 - Doctors
-- `Departments
+- Departments
 - Appointments
 - Schedules
 - Payments
